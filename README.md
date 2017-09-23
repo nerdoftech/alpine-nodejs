@@ -1,5 +1,5 @@
 # alpine-nodejs
-Nodejs container based on the offical [Apline Linux container](https://hub.docker.com/_/alpine/) (also includes curl).
+Nodejs container based on the official [Alpine Linux container](https://hub.docker.com/_/alpine/) (also includes curl).
 
 The version number of this container matches the version of the official alpine container it is built on.
 
@@ -20,5 +20,5 @@ You can get a bash session in the container with the follow command:
 docker exec -it <container_name> /bin/sh
 ```
 
-#Help
+# Help
 Get help in the issues section of the github repo.
